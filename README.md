@@ -8,6 +8,7 @@
     - 은하영 [githubmail]
     - 임지우 [githubmail]
     - 김석현 [githubmail]
+    - 조성민 [githubmail]
 
 ----
 
