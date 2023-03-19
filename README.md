@@ -2,12 +2,12 @@
 딥러닝을 공부하고 싶은 열정적인 사람들과 **세상을 바꾸기 위해**, 약 두 달 동안 진행되는 자연어처리(NLP) 스터디 입니다. 
 
 
-> 박지훈 [githubmail]
-> 김윤경 [githubmail]
-> 김성환 [githubmail]
-> 은하영 [githubmail]
-> 임지우 [githubmail]
-> 김석현 [githubmail]
+    - 박지훈 [githubmail]
+    - 김윤경 [githubmail]
+    - 김성환 [githubmail]
+    - 은하영 [githubmail]
+    - 임지우 [githubmail]
+    - 김석현 [githubmail]
 
 ----
 
