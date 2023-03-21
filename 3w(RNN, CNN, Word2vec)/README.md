@@ -3,6 +3,9 @@
 2. CNN
 3. word2vec구현 (CBOW,skip-gram)
 
+- 세미나 링크
+	- [1. RNN & LSTM & GRU 세미나 바로가기](https://youtu.be/AEjppQitJJU)
+	- [2. 1DCNN 세미나 바로가기](https://youtu.be/R_0e9QNp1ag)
 
 # 1. FFNN, RNN, LSTM, GRU
 
