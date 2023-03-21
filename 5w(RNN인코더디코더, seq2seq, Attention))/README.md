@@ -3,8 +3,14 @@
 1. RNN Encoder, decoder / seq2seq / Attention 
 - 1조 : 김윤경, 임지우, 김석현
 
+[RNN Encoder,Decoder/seq2seq/Attention 세미나 바로가기](https://youtu.be/kFF3OHW8dMI)
+
+---
+
 2. Transformer 리뷰
 - 2조 : 박지훈, 김성환, 은하영
+
+[Transformer세미나 바로가기](https://youtu.be/OuKfYbsUQdw)
 
 ---- 
 
