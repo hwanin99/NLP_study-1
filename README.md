@@ -2,13 +2,16 @@
 딥러닝을 공부하고 싶은 열정적인 사람들과 **세상을 바꾸기 위해**, 약 두 달 동안 진행되는 자연어처리(NLP) 스터디 입니다. 
 
 
-    - 박지훈 [githubmail]
-    - 김윤경 [githubmail]
-    - 김성환 [githubmail]
-    - 은하영 [githubmail]
-    - 임지우 [githubmail]
-    - 김석현 [githubmail]
-    - 조성민 [githubmail]
+- 박지훈[github바로가기](https://github.com/JihoonPark99/)
+- 김윤경 [github바로가기](https://github.com/kimyounkkong)
+- 김성환 [github바로가기](https://github.com/hwanin99)
+- 은하영 [github바로가기](https://github.com/eeehhhyyy)
+- 임지우 [github바로가기](https://github.com/amthreeh)
+- 김석현 [github바로가기](https://github.com/kimsuckhyun)
+
+----
+
+[세미나 녹화 기록](https://www.youtube.com/playlist?list=PLvydMg7vbP3DPuBUDBNM48f01Y6NRIPd8)
 
 ----
 
