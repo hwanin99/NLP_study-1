@@ -1,6 +1,8 @@
 # 6w NLP
 1. BERT
 
+---
+[BERT세미나 ](https://youtu.be/jyM3sZb0gv8)
 --- 
 
 1. BERT
