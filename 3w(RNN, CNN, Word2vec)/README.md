@@ -6,6 +6,7 @@
 - 세미나 링크
 	- [1. RNN & LSTM & GRU 세미나 바로가기](https://youtu.be/AEjppQitJJU)
 	- [2. 1DCNN 세미나 바로가기](https://youtu.be/R_0e9QNp1ag)
+	- [3. Word2vec세미나 바로가기](https://youtu.be/htbFuBZJcO4)
 
 # 1. FFNN, RNN, LSTM, GRU
 
