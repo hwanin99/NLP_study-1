@@ -1,5 +1,7 @@
 # NLP_study
-딥러닝을 공부하고 싶은 열정적인 사람들과 **세상을 바꾸기 위해**, 약 두 달 동안 진행되는 자연어처리(NLP) 스터디 입니다. 
+<a href="https://www.youtube.com/watch?v=2e9wnwuAVv0&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=1"><img src="https://img.shields.io/badge/suanlab-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=2e9wnwuAVv0&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=1"/></a>
+
+딥러닝을 공부하고 싶은 열정적인 사람들과 **세상을 바꾸기 위해**, 약 두 달 동안 진행되는 자연어처리(NLP) 스터디 입니다. (2023.01.20 ~ 2023.03.08)
 
 
 - 박지훈[github바로가기](https://github.com/JihoonPark99/)
